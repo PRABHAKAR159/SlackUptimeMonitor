@@ -21,7 +21,7 @@ $tail -f /root/uptimenotifier.log
 
 Note that the script is written in Python3.5.
 
-### Step 2 -  Setup the config variables
+### Step 2 -  Setup the configuration variables
 
 
 URLS_TO_CHECK = ["http://facebook.com",
